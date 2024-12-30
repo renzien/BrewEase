@@ -17,6 +17,9 @@ export default {
             colors: {
                 'cream': '#f0d4a1',
             },
+            textUnderlineOffset: {
+                10: '10px', 
+            },
         },
     },
     plugins: [],
